@@ -1,5 +1,5 @@
 # Seagrass Carbon Emission Projection (SCE-P)
-all codes are developed by A. J. Wahyudi with contributions and input from RCO-BRIN's IMBeR Group members and OpenAI ChatGPT 4.o
+This Python code was developed by A. J. Wahyudi with contributions and input from RCO-BRIN's IMBeR Group members and OpenAI ChatGPT 4.o
 
 The last update: 17 April 2025
 
